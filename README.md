@@ -19,5 +19,3 @@ Crypto-Watch is a web application designed to track and monitor cryptocurrency d
 3. Similarly, navigate to the `backend` folder and follow the instructions in the README file to set up the backend environment.
 4. Start the frontend and backend servers.
 5. Access the application through the provided URL and start exploring cryptocurrency data.
-
-![](./public/github-01.png)
